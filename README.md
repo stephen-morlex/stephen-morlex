@@ -8,5 +8,5 @@
 - 🤔 I’m looking for senior developer as mentor to guide me throught my journey as a developer 😎
 - 💬 Ask me about building something " Am definitely going to say yes let's build 🐸 "
 - 📫 How to reach me: stephenvicson@gmail.com
-- 😄 Pronouns: He / Him / His
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: You are not alone because you have your laptop and internet ♥️
