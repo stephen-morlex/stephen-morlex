@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Am Stephen Morlex, a Full Stack developer 〖 **Laravel** , **Vuejs** , **Flutter** 〗from the the land of tall and dark 🇸🇸, I got my Bsc in 🇰🇪, I love playing football ⚽️, video game 🎮, watching anime 🍿 and memes 👻.
+## I'm Stephen Morlex, a full stack developer 〖 **Laravel** , **Vuejs** , **Flutter** 〗from the the land of tall and dark 🇸🇸, I got my Bsc from 🇰🇪, I love playing ⚽️, 🎮, watching anime 🍿 and memes 👻.
 
 - 🔭 I’m currently working on an open source music streaming platform and some cool projects for the clients
 - 🌱 I’m also learning electron js to create some awesome desktop applications 😋
