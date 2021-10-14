@@ -6,7 +6,7 @@
 - 🌱 I’m also learning electron js to create some awesome desktop applications 😋
 - 👯 I’m ready to collaborate on laravel, vue and flutter stacks project out there 🛎
 - 🤔 I’m looking for senior developer as mentor to guide me throught my journey as a developer 😎
-- 💬 Ask me about building something " Am definitely going to say yes let's build 🐸 "
+- 💬 Ask me about building something " I'm definitely going to say yes let's build 🐸 "
 - 📫 How to reach me: 🔗 stephenvictor.dev
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: You are not alone because you have your laptop and internet ♥️
