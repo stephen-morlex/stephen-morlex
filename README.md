@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-## I'm Stephen Morlex, a full stack developer ❪ **laravel** , **vuejs** , **flutter** ❫ from the the land of tall and dark 🇸🇸, I love playing ⚽️, 🎮, watching anime 🍿 and memes.
+## I'm Stephen Morlex, a full stack developer **laravel** , **vuejs** , **flutter** .
 
-- 🔭 I’m currently working on an open source and some cool projects for the clients
-- 🌱 I’m also learning electron js to create some awesome desktop applications 😋
-- 👯 I’m ready to collaborate on laravel, vue and flutter stacks project out there 🛎
-- 💬 Ask me about building something " I'm definitely going to say yes let's build 🐸 "
-- 📫 How to reach me: 🔗 stephenvictor.dev
-- 😄 Pronouns: He / Him
 - ⚡ Fun fact: You are not alone because you have your laptop and internet ♥️
