@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/stephen-morlex" target="blank"><img src="https://img.shields.io/twitter/follow/stephen-morlex?logo=twitter&style=for-the-badge" alt="stephen-morlex" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [stephenvictor.dev](stephenvictor.dev)
 
